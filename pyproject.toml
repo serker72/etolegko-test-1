@@ -1,0 +1,10 @@
+[project]
+name = "etolegko-test-1"
+version = "0.1.0"
+description = "Network speed tester"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "httpx[socks]",
+]
+
