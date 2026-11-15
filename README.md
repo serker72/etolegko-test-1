@@ -16,8 +16,8 @@
 
 1. Клонируйте репозиторий и перейдите в папку с проектом:
 ```bash
-git clone <ваш-url-репозитория>
-cd <папка-проекта>
+git clone https://github.com/serker72/etolegko-test-1
+cd etolegko-test-1
 ```
 
 2. Убедитесь, что у вас установлен [uv](https://docs.astral.sh/uv/). Если нет, установите его одной командой (для Linux/macOS):
